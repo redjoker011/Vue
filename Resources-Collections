@@ -1,17 +1,13 @@
 Vue Resources Collections
 
-UI
-* Vuetifyjs
-  https://vuetifyjs.com/vuetify/why-vuetify
+###UI
+* (Vuetifyjs)[https://vuetifyjs.com/vuetify/why-vuetify]
 
-VALIDATIONS
-* VeeValidate
-  http://vee-validate.logaretm.com/
+###Universal App
+* (Quasar)[https://quasar-framework.org/]
 
+###VALIDATIONS
+* (Vue testing handbook by lmiller1990)[https://lmiller1990.github.io/vue-testing-handbook/testing-vuex.html]
 
-SSR
-* Nuxtjs
-  https://nuxtjs.org/
-* Axios
-  https://www.npmjs.com/package/vue-axios
-
+###Testing
+* (Vue testing handbook by Edd Yburg)[https://www.manning.com/books/testing-vue-js-applications]
